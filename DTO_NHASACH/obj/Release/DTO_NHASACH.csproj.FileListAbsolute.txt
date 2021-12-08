@@ -1,0 +1,6 @@
+M:\LTTQ\PMQuanLyNhaSach-master\QUANLYNHASACH_DOAN\DTO_NHASACH\bin\Release\DTO_NHASACH.dll
+M:\LTTQ\PMQuanLyNhaSach-master\QUANLYNHASACH_DOAN\DTO_NHASACH\bin\Release\DTO_NHASACH.pdb
+M:\LTTQ\PMQuanLyNhaSach-master\QUANLYNHASACH_DOAN\DTO_NHASACH\obj\Release\DTO_NHASACH.csprojAssemblyReference.cache
+M:\LTTQ\PMQuanLyNhaSach-master\QUANLYNHASACH_DOAN\DTO_NHASACH\obj\Release\DTO_NHASACH.csproj.CoreCompileInputs.cache
+M:\LTTQ\PMQuanLyNhaSach-master\QUANLYNHASACH_DOAN\DTO_NHASACH\obj\Release\DTO_NHASACH.dll
+M:\LTTQ\PMQuanLyNhaSach-master\QUANLYNHASACH_DOAN\DTO_NHASACH\obj\Release\DTO_NHASACH.pdb
